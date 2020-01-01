@@ -5,3 +5,4 @@ react elearning template
 
 [![npm version](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node)
 
+[![GitHub version](https://badge.fury.io/gh/tkhadir%2Freact-elearning-template@2x.png)](https://badge.fury.io/gh/tkhadir%2Freact-elearning-template)
