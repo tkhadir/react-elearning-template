@@ -5,4 +5,3 @@ react elearning template
 
 [![npm version](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node)
 
-[![react version](https://badge.fury.io/js/react.svg)](https://badge.fury.io/js/react)
